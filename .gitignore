@@ -1,0 +1,5 @@
+/index.html
+/style.css
+
+# ignore all the files in auto-gen-files and if only particular type of files needed to be ignored then use auto-gen-files/*.txt
+auto-gen-files/*.txt
